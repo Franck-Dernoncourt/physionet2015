@@ -3,6 +3,15 @@
 Official website: http://www.physionet.org/challenge/2015
 Google Group: https://groups.google.com/forum/#!forum/physionet-challenges
 
+# TODO:
+
+- write code to extract features into one matrix
+- write code to learn classifier on that matrix (SVM, HMM, RNN)
+- write code to score classifier
+- cross-validation to avoid overfitting / optimize meta-parameters if any
+- Ensemble learning to make the best out of each classifier
+- literature review
+
 # Entry 001:
 
 Original sample entry from the challenge.
